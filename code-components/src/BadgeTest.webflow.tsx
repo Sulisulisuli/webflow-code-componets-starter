@@ -8,7 +8,7 @@ export default declareComponent(Badge, {
   props: {
     text: props.Text({
       name: "Text",
-      defaultValue: "Hello in my World",
+      defaultValue: "Hello in my World SUKO",
     }),
     variant: props.Variant({
       name: "Variant",
