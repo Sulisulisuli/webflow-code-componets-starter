@@ -1,6 +1,0 @@
-{
-  "library": {
-    "name": "webflow-code-components",
-    "components": ["./src/**/*.webflow.@(js|jsx|mjs|ts|tsx)"]
-  }
-}
